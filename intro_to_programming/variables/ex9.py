@@ -1,0 +1,12 @@
+balance = 1000.00
+print(f'Balance = ${balance:.2f}')
+balance *= 1.05
+print(f'Balance = ${balance:.2f}')
+balance *= 1.05
+print(f'Balance = ${balance:.2f}')
+balance *= 1.05
+print(f'Balance = ${balance:.2f}')
+balance *= 1.05
+print(f'Balance = ${balance:.2f}')
+balance *= 1.05
+print(f'Balance = ${balance:.2f}')
