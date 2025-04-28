@@ -1,0 +1,37 @@
+{
+    "en": {
+    "choose_language": "Choose your language: 1) English 2) German",
+    "invalid_language": "Invalid choice. Defaulting to English.",
+    "welcome_1": "Welcome to the calculator program!",
+    "welcome_2": "This program will help you perform basic arithmetic operations.",
+    "welcome_3": "Please enter two numbers and the operation you want to perform.",
+    "invalid_number": "Hmm... that doesn't look like a valid number.",
+    "invalid_operation": "You must choose 1, 2, 3, or 4",
+    "first_number": "What's the first number?",
+    "second_number": "What's the second number?",
+    "what_operation": "What operation would you like to perform:\n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "result": "The result is: {}",
+    "go_again": "Would you like to perform another calculation? (y/n)",
+    "invalid_y_n": "You must choose y or n",
+    "going_again": "Great! Let's start again.",
+    "goodbye": "Thanks for using the calculator program. Goodbye!"
+    },
+    "de": {
+    "choose_language": "Wählen Sie Ihre Sprache: 1) Englisch 2) Deutsch",
+    "invalid_language": "Ungültige Wahl. Standardmäßig auf Englisch eingestellt.",
+    "welcome_1": "Willkommen im Taschenrechner-Programm!",
+    "welcome_2": "Dieses Programm hilft Ihnen, grundlegende arithmetische Operationen durchzuführen.",
+    "welcome_3": "Bitte geben Sie zwei Zahlen und die Operation ein, die Sie durchführen möchten.",
+    "invalid_number": "Hmm... das sieht nicht nach einer gültigen Zahl aus.",
+    "invalid_operation": "Sie müssen 1, 2, 3 oder 4 wählen",
+    "first_number": "Was ist die erste Zahl?",
+    "second_number": "Was ist die zweite Zahl?",
+    "what_operation": "Welche Operation möchten Sie durchführen:\n1) Addieren 2) Subtrahieren 3) Multiplizieren 4) Dividieren",
+    "result": "Das Ergebnis ist: {}",
+    "go_again": "Möchten Sie eine weitere Berechnung durchführen? (j/n)",
+    "invalid_y_n": "Sie müssen j oder n wählen",
+    "going_again": "Super! Lass uns nochmal anfangen.",
+    "goodbye": "Danke, dass Sie das Taschenrechner-Programm verwendet haben. Auf Wiedersehen!"
+    }
+}
+
