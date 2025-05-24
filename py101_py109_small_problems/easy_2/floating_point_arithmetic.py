@@ -1,0 +1,10 @@
+number_1 = float(input("==> Enter the first number: \n"))
+number_2 = float(input("==> Enter the second number: \n"))
+
+print(f"==> {number_1} + {number_2} = {number_1 + number_2}")
+print(f"==> {number_1} - {number_2} = {number_1 - number_2}")
+print(f"==> {number_1} * {number_2} = {number_1 * number_2}")
+print(f"==> {number_1} / {number_2} = {number_1 / number_2}")
+print(f"==> {number_1} // {number_2} = {number_1 // number_2}")
+print(f"==> {number_1} % {number_2} = {number_1 % number_2}")
+print(f"==> {number_1} ** {number_2} = {number_1 ** number_2}")

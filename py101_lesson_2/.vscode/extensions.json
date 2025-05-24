@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "nopeslide.vscode-drawio-plugin-mermaid"
+        "nopeslide.vscode-drawio-plugin-mermaid",
+        "ms-python.vscode-pylance"
     ]
 }
